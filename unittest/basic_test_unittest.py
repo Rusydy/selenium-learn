@@ -50,3 +50,6 @@ class Testing(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# Reference
+# https://www.digitalocean.com/community/tutorials/python-unittest-unit-test-example
